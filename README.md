@@ -2,9 +2,9 @@
 Using Random Forest Classifier
 
 
-# The dataset contains 208 rows of data, each representing a sonar signal reading. Each row consists of 60 numerical features (attributes) and a label at the end indicating the class of the signal.
+The dataset contains 208 rows of data, each representing a sonar signal reading. Each row consists of 60 numerical features (attributes) and a label at the end indicating the class of the signal.
 
-# Number of Features: 60
+ Number of Features: 60
 
 # Feature Values: 
 Each feature is a floating-point number, likely representing the energy within a particular frequency band of the sonar signal. 
